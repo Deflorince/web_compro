@@ -21,5 +21,4 @@ document.addEventListener("DOMContentLoaded", function() {
     paragraphs.forEach(function(paragraph) {
         paragraph.addEventListener("mouseover", hideParagraph);
     });
->>>>>>> 6757fb6 (setelah melakukan perubahan pada index css dan js)
 });
